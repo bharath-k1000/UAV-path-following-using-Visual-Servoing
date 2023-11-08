@@ -16,4 +16,8 @@ Preferaby in baylands.world
 
 3. python3 path_follower.py
 
+Control drone using key mapping specified in code file. 
 
+Take off with 'L' and land with 'O'.
+
+Activate Visual servoing mode with 'V'
